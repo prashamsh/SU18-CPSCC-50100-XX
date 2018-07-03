@@ -1,4 +1,4 @@
-package CalculatePay;
+package Person;
 
 public class Person {
 
@@ -24,7 +24,7 @@ public class Person {
 		lastName = last;
 	} // Method returns first name
 
-	String getFirstName() {
+	public String getFirstName() {
 		return (firstName);
 	} // Method returns last name
 
